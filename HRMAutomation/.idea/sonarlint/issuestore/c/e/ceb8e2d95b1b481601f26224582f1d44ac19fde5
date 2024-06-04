@@ -1,0 +1,7 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8È´ëı1J$122338ab-1976-4e17-a0df-123783c8b970
+‘
+java:S1192W"IDefine a constant instead of duplicating this literal "Required" 4 times.(ŸÖ­ùÿÿÿÿ8É´ëı1J$4312d6bb-92bb-482f-8ecf-1157511442a0
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ã´ëı1J$e55e2b22-4300-491f-a1b2-53125afc7a58
+ƒ	java:S125#"<This block of commented-out lines of code should be removed.(ıÊÚ³úÿÿÿÿ8ç´ëı1J$4ceaca65-e601-4d4d-9058-58a632cb75c4

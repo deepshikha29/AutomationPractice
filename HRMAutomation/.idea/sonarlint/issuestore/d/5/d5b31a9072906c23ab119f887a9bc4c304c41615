@@ -1,0 +1,8 @@
+
+}
+java:S1118
+":Add a private constructor to hide the implicit public one.(àí«î8Ô¿Ïû1J$87fa0074-91bc-4561-bab9-d2edaccd9024
+“
+java:S1128"QRemove this unused import 'com.fasterxml.jackson.databind.annotation.JsonAppend'.(°Âøp8°™ÁÏû1J$b6507a4b-130a-4b2e-8733-2e84ba424f46
+‚
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8°™ÁÏû1J$e907c42c-6fad-4231-92e0-571638fe70ff

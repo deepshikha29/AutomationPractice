@@ -1,0 +1,17 @@
+
+R
+java:S3740Æ"/Provide the parametrized type for this generic.(ëßîöûÿÿÿÿ8½÷îş1
+m	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Äáº8¾÷îş1
+r	java:S117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›£Ä‘ûÿÿÿÿ8¾÷îş1
+Œ
+java:S1488–"iImmediately return this expression instead of assigning it to the temporary variable "canclebuttonState".(óöÈÎüÿÿÿÿ8¿÷îş1
+|	java:S116"[Rename this field "PageTextDashBord" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ì‘Äşÿÿÿÿ8Ì÷îş1
+u	java:S1160"YRename this field "ResetPwdButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ó¾Ü8Ì÷îş1
+L	java:S106e"+Replace this use of System.out by a logger.(ÃÄ÷‹ùÿÿÿÿ8Ô÷îş1
+L	java:S106q"+Replace this use of System.out by a logger.(½ª¸×ùÿÿÿÿ8Ö÷îş1
+L	java:S106}"+Replace this use of System.out by a logger.(·ˆ‚şÿÿÿÿ8×÷îş1
+H	java:S106‰"+Replace this use of System.out by a logger.(¯ŒÉÒ8Ù÷îş1
+`
+java:S1854±"BRemove this useless assignment to local variable "parentWindowID".(‚æ‹€8ß÷îş1
+Q
+java:S1481±"3Remove this unused "parentWindowID" local variable.(‚æ‹€8à÷îş1
